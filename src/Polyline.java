@@ -16,7 +16,6 @@ import java.util.List;
  * Partner: Maria Paula Mora
  */
 public class Polyline implements Shape {
-	// TODO: YOUR CODE HERE
 	public ArrayList<Point> segmentPoints;		// holds all points in polyline
 	public Color color;
 

@@ -1,2 +1,5 @@
 # Doodle game
-A multiplayer "Pictionary" game written in Java to apply multi-threaded server and clients
+<img src="images/doodle.gif" alt=""/>
+
+
+This is a multiplayer Pictionary game that applies multi-threaded servers, clients, and sockets.

@@ -1,6 +1,3 @@
-import net.datastructures.EmptyPriorityQueueException;
-import net.datastructures.Entry;
-
 import java.net.*;
 import java.util.*;
 import java.io.*;

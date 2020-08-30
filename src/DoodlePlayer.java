@@ -496,7 +496,7 @@ public class DoodlePlayer extends JFrame {
     public void drawHomeScreen(Graphics g) {
 
         // draw the background image
-        g.drawImage(loadImage("PS6/doodle.jpg"), 0, 0, null);
+        g.drawImage(loadImage("images/doodle.jpg"), 0, 0, null);
 
         // draw the game title
         g.setColor(new Color(13, 76, 108));             // rectangle behind title
@@ -577,7 +577,7 @@ public class DoodlePlayer extends JFrame {
     public void drawInstructionsScreen(Graphics g) {
 
         // draw the background image
-        g.drawImage(loadImage("PS6/doodle.jpg"), 0, 0, null);
+        g.drawImage(loadImage("images/doodle.jpg"), 0, 0, null);
 
         // draw the game title
         g.setColor(new Color(13, 76, 108));             // rectangle behind title
@@ -674,7 +674,7 @@ public class DoodlePlayer extends JFrame {
     public void drawWinnersScreen(Graphics g) {
 
         // draw the background image
-        g.drawImage(loadImage("PS6/doodle.jpg"), 0, 0, null);
+        g.drawImage(loadImage("images/doodle.jpg"), 0, 0, null);
 
         // draw the game title
         g.setColor(new Color(13, 76, 108));             // rectangle behind title
